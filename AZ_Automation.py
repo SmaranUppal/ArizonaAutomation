@@ -52,6 +52,8 @@ BUSINESS_NAMES = [
     "J G Wentworth",
     "J.G. Wentworth",
     "J. G. Wentworth",
+    "Peachtree Settlement",
+    "Peach Tree Settlement",
     "DRB Cap",
     "Stone Street",
     "AA Ron I",
